@@ -1,0 +1,6 @@
+cd C:\Users\richa\Documents\Coding\LandReg_py
+
+conda activate landreg
+
+jupyter notebook
+
