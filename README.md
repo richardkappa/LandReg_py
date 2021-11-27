@@ -23,7 +23,7 @@ The data has all been downloaded to my local PC but it can be found in the locat
 ## Processing
 + 01_GetFlatData.ipynb
     + Imports & Processes the NSPL and land registry data so it can be processed into map data in the next step
-+02_MakeGeopandasDataframes.ipynb
++ 02_MakeGeopandasDataframes.ipynb
     + Imports the various shape files and converts them into a geopandas format
     + Converts the data from 01 into geopandas format
     + Saves the Geopandas files for later use
