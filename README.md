@@ -19,3 +19,12 @@ The data has all been downloaded to my local PC but it can be found in the locat
     + [Strategi](https://osdatahub.os.uk/downloads/open/Strategi) (As at 2016)
         + Used for coastline, railways, ferries...
     + [OS Terrain50](https://osdatahub.os.uk/downloads/open/Terrain50)
+
+## Processing
++ 01_GetFlatData.ipynb
+    + Imports & Processes the NSPL and land registry data so it can be processed into map data in the next step
++02_MakeGeopandasDataframes.ipynb
+    + Imports the various shape files and converts them into a geopandas format
+    + Converts the data from 01 into geopandas format
+    + Saves the Geopandas files for later use
+    + Selects some key grid references and clips the geopandas data to areas around these for quicker processing later
