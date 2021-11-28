@@ -18,7 +18,12 @@ The data has all been downloaded to my local PC but it can be found in the locat
     + [OS Open UDPRN](https://osdatahub.os.uk/downloads/open/OpenUPRN) (Not used)
     + [Strategi](https://osdatahub.os.uk/downloads/open/Strategi) (As at 2016)
         + Used for coastline, railways, ferries...
-    + [OS Terrain50](https://osdatahub.os.uk/downloads/open/Terrain50)
+
++ Not yet used, but will hopefully add
+	+ Ordnance Survey OpenData
+		+ [OS Terrain50](https://osdatahub.os.uk/downloads/open/Terrain50)
+	+ [DTF Road Safety Data](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
+	+ National Public Transport Access Nodes [(NaPTAN)](https://data.gov.uk/dataset/ff93ffc1-6656-47d8-9155-85ea0b8f2251/national-public-transport-access-nodes-naptan)
 
 ## Processing
 + 01_GetFlatData.ipynb
