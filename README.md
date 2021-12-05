@@ -24,6 +24,8 @@ The data has all been downloaded to my local PC but it can be found in the locat
 + Not yet used, but will hopefully add
 	+ Ordnance Survey OpenData
 		+ [OS Terrain50](https://osdatahub.os.uk/downloads/open/Terrain50)
+	+ [NHS data](https://www.nhs.uk/about-us/nhs-website-datasets/) 
+	+ [Schools](https://www.gov.uk/government/publications/schools-in-england)
 	
 	
 
