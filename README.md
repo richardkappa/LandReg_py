@@ -38,3 +38,9 @@ The data has all been downloaded to my local PC but it can be found in the locat
     + Converts the data from 01 into geopandas format
     + Saves the Geopandas files for later use
     + Selects some key grid references and clips the geopandas data to areas around these for quicker processing later
++ 03_Make_Maps.ipynb
+	+ Imports the data made in 02
+	+ Four functions defined to plot the different layers
+	+ Maps printed for each of the clipped areas
++ 04_NearestNeighbour_Investigation.ipynb
+	+ Functions defined to find the nearest point in a geopandas dataframe to a point in another geopandas dataframe
