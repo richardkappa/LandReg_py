@@ -20,13 +20,13 @@ The data has all been downloaded to my local PC but it can be found in the locat
         + Used for coastline, railways, ferries...
 + National Public Transport Access Nodes [(NaPTAN)](https://data.gov.uk/dataset/ff93ffc1-6656-47d8-9155-85ea0b8f2251/national-public-transport-access-nodes-naptan)
 + [DTF Road Safety Data](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
++ [Fire data](https://www.gov.uk/government/statistics/fire-statistics-incident-level-datasets)
 
 + Not yet used, but will hopefully add
 	+ Ordnance Survey OpenData
 		+ [OS Terrain50](https://osdatahub.os.uk/downloads/open/Terrain50)
 	+ [NHS data](https://www.nhs.uk/about-us/nhs-website-datasets/) 
-	+ [Schools](https://www.gov.uk/government/publications/schools-in-england)
-	+ [Fire data](https://www.gov.uk/government/statistics/fire-statistics-incident-level-datasets)
+	+ [Schools](https://get-information-schools.service.gov.uk/)
 	
 	
 
@@ -42,5 +42,5 @@ The data has all been downloaded to my local PC but it can be found in the locat
 	+ Imports the data made in 02
 	+ Four functions defined to plot the different layers
 	+ Maps printed for each of the clipped areas
-+ 04_NearestNeighbour_Investigation.ipynb
++ 04_NearestNeighbour.ipynb
 	+ Functions defined to find the nearest point in a geopandas dataframe to a point in another geopandas dataframe
